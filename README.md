@@ -22,3 +22,5 @@ npm start // start server
 
 npm start // start client
 
+![alt text](https://github.com/vishnusinghchauhan/Node-React-Crud/blob/master/mern-crud.png)
+
